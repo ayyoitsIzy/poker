@@ -44,7 +44,6 @@ public class GameEngine {
             playHand();
             tableManager.moveButton();
         }
-        System.out.println("Game Over!");
     }
 
     private void playHand() {
